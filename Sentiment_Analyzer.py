@@ -182,10 +182,10 @@ def close_windowt ():
         count=text1.get(0.0,END)
         obj1.destroy()
         count=int(count)
-        consumer_key = '6ELb1Eg4pdx8iIlOUSHuoYf8Q'
-        consumer_secret_key = 'CaCt2HIs3D2S6WY0zZYNyohm2vgFCIWrrIfFwvQWb0FJc5zQU3'
-        access_key = '884370600793223169-Tb5tQIWmoJbgQrqDaexCcPTwu3FPWLU'
-        access_secret_key = 'jQSwzswNNrgRqKDXXMZ6vg8MYLdGsttLGfOPnblCwAEmx'
+        consumer_key = 'XXXXXXXXXXXXXXXXXXXXX'
+        consumer_secret_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
+        access_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+        access_secret_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
         def percentage(part, whole):
             return 100 * float(part)/float(whole)
